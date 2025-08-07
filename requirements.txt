@@ -1,0 +1,10 @@
+openai
+langchain
+playwright
+beautifulsoup4
+requests
+python-dotenv
+sqlalchemy
+fastapi
+uvicorn
+pydantic
